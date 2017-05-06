@@ -4,11 +4,11 @@ En los últimos años, la empresa Facebook viene revolucionando el modo en que s
 
 ## Clases
 
-### [Clase 1](https://github.com/utn-fullstack/clase-1/README.md)
+### [Clase 1](clases/clase1.md)
 
-### [Clase 2](clase2/README.md)
+### [Clase 2](clases/clase2.md)
 
-### [Clase 3](clase3/README.md)
+### [Clase 3](clases/clase3.md)
 
 ## Contacto
 
