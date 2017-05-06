@@ -2,13 +2,21 @@
 
 En los últimos años, la empresa Facebook viene revolucionando el modo en que se hacen aplicaciones liberando como tecnologías de código abierto, muchas de las herramientas que usan en sus aplicaciones web y mobile a gran escala (Instagram, Whatsapp, Facebook, entre otras). React y GraphQL son ejemplos de dos tecnologías (frontend y backend respectivamente) desarrolladas por Facebook, que tuvieron un gran impacto en la industria de software moderna. Durante el curso se explorarán estas herramientas y su relación con el ecosistema de node.js, que es al día de hoy una de las tecnologías preferidas por los programadores para hacer aplicaciones web. 
 
-## Clases
 
-### [Clase 1 (Manejos de archivos y asincronismo en NodeJS)](clases/clase1.md)
+### Clase 1 (Manejos de archivos y asincronismo en NodeJS)
 
-### [Clase 2 (Docker)](clases/clase2.md)
+* [Documentación](clases/clase1.md)
+* [Ejemplos y ejercicios](https://github.com/utn-fullstack/clase1)
 
-### [Clase 3 (Módulos, Express y REST)](clases/clase3.md)
+### Clase 2 (Docker)
+
+* [Documentación](clases/clase2.md)
+* [Ejemplos y ejercicios](https://github.com/utn-fullstack/clase2)
+
+### Clase 3 (Módulos, Express y REST)
+
+* [Documentación](clases/clase3.md)
+* [Ejemplos y ejercicios](https://github.com/utn-fullstack/clase3)
 
 ## Contacto
 
