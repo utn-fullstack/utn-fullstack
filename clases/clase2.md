@@ -121,7 +121,7 @@ __Beneficios:__
 
 [Docker](https://www.docker.com/) funciona en algunos aspectos como lo hace [Git](https://git-scm.com/) ya que nos permite mantener un repositorio local de imágenes o acceder a un [repositorio externo](https://hub.docker.com/) (que puede ser privado o público). También podemos realizar cambios en nuestras imágenes y realizar commit de los mismos.
 
-# Ejemplos y ejercicios
+# [Ejemplos y ejercicios](https://github.com/utn-fullstack/clase2)
 
 ```bash
 git clone https://github.com/utn-fullstack/clase2.git

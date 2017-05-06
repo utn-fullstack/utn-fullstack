@@ -113,7 +113,7 @@ Utilizado para actualizar parte de un recurso
 
 Utilizado para eliminar un recurso
 
-# Ejemplos y ejercicios
+# [Ejemplos y ejercicios](https://github.com/utn-fullstack/clase3)
 
 ```bash
 git clone https://github.com/utn-fullstack/clase3.git

@@ -4,11 +4,11 @@ En los últimos años, la empresa Facebook viene revolucionando el modo en que s
 
 ## Clases
 
-### [Clase 1](clases/clase1.md)
+### [Clase 1 (Manejos de archivos y asincronismo en NodeJS)](clases/clase1.md)
 
-### [Clase 2](clases/clase2.md)
+### [Clase 2 (Docker)](clases/clase2.md)
 
-### [Clase 3](clases/clase3.md)
+### [Clase 3 (Módulos, Express y REST)](clases/clase3.md)
 
 ## Contacto
 

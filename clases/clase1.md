@@ -240,7 +240,7 @@ fs.readFile('../data/people.json', 'utf-8', (err, data) => {
 });
 ```
 
-# Ejemplos y ejercicios
+# [Ejemplos y ejercicios](https://github.com/utn-fullstack/clase1)
 
 ```bash
 git clone https://github.com/utn-fullstack/clase1.git
