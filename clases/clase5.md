@@ -9,13 +9,13 @@ __DOCUMENTACION ACTUALMENTE NO DISPONIBLE__
 - [CREATE-REACT-APP](https://github.com/facebookincubator/create-react-app)
 - [REACT-BOOTSTRAP](https://react-bootstrap.github.io/)
 
-## [Visto en clase](https://github.com/utn-fullstack/clase5/visto-en-clase/)
+## [Visto en clase](https://github.com/utn-fullstack/clase5/tree/master/visto-en-clase)
 
-* [Crear una app react](https://github.com/utn-fullstack/clase5/visto-en-clase/boilerplate)
+* [Crear una app react](https://github.com/utn-fullstack/clase5/tree/master/visto-en-clase/boilerplate)
 
-* [Crear una app react con "create-react-app"](https://github.com/utn-fullstack/clase5/visto-en-clase/app1)
+* [Crear una app react con "create-react-app"](https://github.com/utn-fullstack/clase5/tree/master/visto-en-clase/app1)
 
-## [Ejercicios](https://github.com/utn-fullstack/clase5/ejercicios/)
+## [Ejercicios](https://github.com/utn-fullstack/clase5/tree/master/ejercicios)
 
 Utilizando los ZIPs que encontrarán en la carpeta data:
 
