@@ -25,9 +25,9 @@ Utilizando los ZIPs que encontrarán en la carpeta data:
 
 Realizar los siguientes ejercicios:
 
-* [Ejercicio 1](https://github.com/utn-fullstack/clase5/ejercicios/ej1/)
+* [Ejercicio 1](https://github.com/utn-fullstack/clase5/tree/master/ejercicios/ej1)
 
-* [Ejercicio 2](https://github.com/utn-fullstack/clase5/ejercicios/ej2/)
+* [Ejercicio 2](https://github.com/utn-fullstack/clase5/tree/master/ejercicios/ej2)
 
 ## Clonar el proyecto
 
