@@ -18,6 +18,16 @@ En los últimos años, la empresa Facebook viene revolucionando el modo en que s
 * [Documentación](clases/clase3.md)
 * [Ejemplos y ejercicios](https://github.com/utn-fullstack/clase3)
 
+### Clase 4 (Express Middlewares y MONGODB)
+
+* [Documentación](clases/clase4.md)
+* [Ejemplos y ejercicios](https://github.com/utn-fullstack/clase4)
+
+### Clase 5 (React APP)
+
+* [Documentación](clases/clase5.md)
+* [Ejemplos y ejercicios](https://github.com/utn-fullstack/clase5)
+
 ## Contacto
 
 ### Ainú Chambeaud
